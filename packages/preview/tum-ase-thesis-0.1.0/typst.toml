@@ -1,0 +1,8 @@
+[package]
+name = "tum-ase-thesis"
+version = "0.0.1"
+authors = ["bgeisb <https://github.com/bgeisb>", "krusche <https://github.com/krusche>", "robertjndw <https://github.com/robertjndw>"]
+license = "MIT"
+description = "TUM ASE thesis typst template"
+entrypoint = "tum-ase-thesis.typ"
+repository = "https://github.com/ls1intum/thesis-template-typst"
